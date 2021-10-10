@@ -1,0 +1,14 @@
+2021-10-10 15:48:31 [main] [main] [23] INFO  com.javacourse.lesson2.main.Main - Array of real numbers[1.0, 2.0, 3.0, 90.0, 4.3, 56.0, 789.0, -5.0, -9.0, -65.0, 1000.0, 1.0E-8]
+2021-10-10 15:48:31 [main] [main] [27] INFO  com.javacourse.lesson2.main.Main - The average of the array is: 155.52500000083333
+2021-10-10 15:48:31 [main] [main] [30] INFO  com.javacourse.lesson2.main.Main - The average of the array is: 155.52500000083333
+2021-10-10 15:48:31 [main] [main] [34] INFO  com.javacourse.lesson2.main.Main - The maximum of the array is: 1000.0
+2021-10-10 15:48:31 [main] [main] [37] INFO  com.javacourse.lesson2.main.Main - The maximum of the array is: 1000.0
+2021-10-10 15:48:31 [main] [main] [41] INFO  com.javacourse.lesson2.main.Main - The minimum of the array is: -65.0
+2021-10-10 15:48:31 [main] [main] [44] INFO  com.javacourse.lesson2.main.Main - The minimum of the array is: -65.0
+2021-10-10 15:48:31 [main] [main] [48] INFO  com.javacourse.lesson2.main.Main - 
+Array of negative numbers replaced with positive ones is: [1.0, 2.0, 3.0, 90.0, 4.3, 56.0, 789.0, 5.0, 9.0, 65.0, 1000.0, 1.0E-8]
+2021-10-10 15:48:31 [main] [main] [52] INFO  com.javacourse.lesson2.main.Main - 
+Array of negative numbers replaced with positive ones is: [1.0, 2.0, 3.0, 90.0, 4.3, 56.0, 789.0, 5.0, 9.0, 65.0, 1000.0, 1.0E-8]
+2021-10-10 15:48:31 [main] [main] [57] INFO  com.javacourse.lesson2.main.Main - Sort the array using the bubble method: [-65.0, -9.0, -5.0, 1.0E-8, 1.0, 2.0, 3.0, 4.3, 56.0, 90.0, 789.0, 1000.0]
+2021-10-10 15:48:31 [main] [main] [61] INFO  com.javacourse.lesson2.main.Main - Sort the array using the quick sort method: [-65.0, -9.0, -5.0, 1.0E-8, 1.0, 2.0, 3.0, 4.3, 56.0, 90.0, 789.0, 1000.0]
+2021-10-10 15:48:31 [main] [main] [65] INFO  com.javacourse.lesson2.main.Main - Sort the array using the merge sort method: [-65.0, -9.0, -5.0, 1.0E-8, 1.0, 2.0, 3.0, 4.3, 56.0, 90.0, 789.0, 1000.0]
